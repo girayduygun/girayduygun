@@ -13,6 +13,8 @@
 
 [![image](https://github.com/girayduygun/girayduygun/assets/145222042/bea2dedd-8b42-4639-8389-6b69a0e42cf6)
 ](https://www.w3schools.com/css/)
+[![image](https://github.com/girayduygun/girayduygun/assets/145222042/bea2dedd-8b42-4639-8389-6b69a0e42cf6)
+](https://www.w3schools.com/css/)
 
 
 
