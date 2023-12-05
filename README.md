@@ -8,7 +8,7 @@ https://www.linkedin.com/in/girayduygun/
 🛠️ Languages Tools
 
 [![image](https://github.com/girayduygun/girayduygun/assets/145222042/bea2dedd-8b42-4639-8389-6b69a0e42cf6)
-](https://github.com/girayduygun/girayduygun/assets/145222042/ee182a16-59c2-48f4-82fb-ed7d95db702b)
+](https://www.w3schools.com/css/)
 
 
 
