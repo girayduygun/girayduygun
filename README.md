@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Angular, Vue, C#, Java
 - 📫 Connect with me
   
-[![image](https://github.com/girayduygun/girayduygun/assets/145222042/83c51196-235a-4c71-af6c-c8189f0b1f2c)
+[![image](https://github.com/girayduygun/girayduygun/assets/145222042/1d7f94a4-8c40-44f6-89ae-6a95acbe7154)
 ](https://www.linkedin.com/in/girayduygun/)
 
 
