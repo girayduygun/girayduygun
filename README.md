@@ -3,10 +3,11 @@
 - 👀 I have learned HTML5, CSS, Sass (SCSS), JavaScript, React.js, Document Object Model (DOM) APIs, Node.js, Express.js, Web APIs, OAuth, User Authentication, MySQL, GitHub, Enzyme, Heroku, WebPack, Jest, Agile Development.
 - 🌱 I’m currently learning Angular, Vue, C#, Java
 - 📫 Connect with me
+  
 [![image](https://github.com/girayduygun/girayduygun/assets/145222042/83c51196-235a-4c71-af6c-c8189f0b1f2c)
 ](https://www.linkedin.com/in/girayduygun/)
-- 
-https://www.linkedin.com/in/girayduygun/
+
+
 
 🛠️ Languages Tools
 
