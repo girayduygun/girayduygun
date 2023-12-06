@@ -21,8 +21,6 @@
 ](https://nodejs.org/)
 [![image](https://github.com/girayduygun/girayduygun/assets/145222042/a2fa7806-75ff-4d61-999e-aff0378288f4)
 ](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
-[![image](https://github.com/girayduygun/girayduygun/assets/145222042/823928a8-060e-46d9-9b3b-6b4270c54fe6)
-](http://knexjs.org/)
 [![image](https://github.com/girayduygun/girayduygun/assets/145222042/26907c4f-8b52-4ab2-a565-d740ead6c37f)
 ](https://www.mysql.com/)
 
