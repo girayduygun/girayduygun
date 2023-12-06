@@ -17,8 +17,10 @@
 ](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![image](https://github.com/girayduygun/girayduygun/assets/145222042/0403d990-7e2c-43b9-9acf-24ab7f906b37)
 ](https://reactjs.org/)
-
-
+[![image](https://github.com/girayduygun/girayduygun/assets/145222042/0940f7f8-5066-4ee5-ba9b-bce81cf6542c)
+](https://nodejs.org/)
+[![image](https://github.com/girayduygun/girayduygun/assets/145222042/a2fa7806-75ff-4d61-999e-aff0378288f4)
+](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
 
 <!---
 girayduygun/girayduygun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
