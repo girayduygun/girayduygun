@@ -9,7 +9,7 @@
 
 🛠️ Languages Tools
 
-<a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" style="max-width: 100%;"> </a>
+<a href="https://www.w3schools.com/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" style="max-width: 100%;"> </a>
 <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" style="max-width: 100%;"> </a>
 <a href="http://getbem.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/ac8da4199b714743566e0d534b3e07379862e7927b18356d9341da62d53b9719/68747470733a2f2f63646e2e66726565626965737570706c792e636f6d2f6c6f676f732f6c617267652f32782f62656d2d6c6f676f2d706e672d7472616e73706172656e742e706e67" alt="bem" width="60" height="60" data-canonical-src="https://cdn.freebiesupply.com/logos/large/2x/bem-logo-png-transparent.png" style="max-width: 100%;"> </a>
 <a href="https://sass-lang.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60" style="max-width: 100%;"> </a>
