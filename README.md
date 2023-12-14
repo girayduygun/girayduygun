@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Giray
-- 🎓 I'm a <strong>Full Stack Software Engineer</strong> graduate from <strong>BrainStation Software Engineering Bootcamp</strong>
+- 👋 Hi, I’m Giray 
+- 🎓 I'm a <strong>Full Stack Software Engineer</strong> graduate from <a href="https://brainstation.io/online/software-engineering-bootcamp"><strong>BrainStation Software Engineering Bootcamp</strong></a>
 - 👀 I learned HTML5, CSS, Sass (SCSS), JavaScript, React.js, Document Object Model (DOM) APIs, Node.js, Express.js, Web APIs, OAuth, User Authentication, MySQL, GitHub, Enzyme, Heroku, WebPack, Jest, Agile Development.
 - 🌱 I’m currently learning TypeScript, Angular, Vue, C#, Java
 - 📫 Connect with me
