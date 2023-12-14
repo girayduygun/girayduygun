@@ -1,10 +1,12 @@
 - 👋 Hi, I’m Giray
-- 🎓 I'm a Full Stack Software Engineer graduate from BrainStation Software Engineering Bootcamp
+- 🎓 I'm a <strong>Full Stack Software Engineer</strong> graduate from <strong>BrainStation Software Engineering Bootcamp</strong>
 - 👀 I learned HTML5, CSS, Sass (SCSS), JavaScript, React.js, Document Object Model (DOM) APIs, Node.js, Express.js, Web APIs, OAuth, User Authentication, MySQL, GitHub, Enzyme, Heroku, WebPack, Jest, Agile Development.
 - 🌱 I’m currently learning TypeScript, Angular, Vue, C#, Java
 - 📫 Connect with me
 - girayduygun@hotmail.com
 - https://www.linkedin.com/in/girayduygun/
+
+<a href="https://www.linkedin.com/in/girayduygun" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/girayduygun" height="40" width="40" style="max-width: 100%;"></a>
 
 
 🛠️ Languages Tools
@@ -25,6 +27,9 @@
 <a href="https://postman.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="60" height="60" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"> </a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="60" height="60" style="max-width: 100%;"> </a>
 <a href="https://heroku.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667" alt="heroku" width="60" height="60" data-canonical-src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="max-width: 100%;"> </a>
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=girayduygun&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="girayduygun" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=girayduygun&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
 
 
 <!---
