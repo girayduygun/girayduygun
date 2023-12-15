@@ -31,7 +31,7 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girayduygun&layout=donut)](https://github.com/girayduygun/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=girayduygun&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="girayduygun" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=girayduygun&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
 
 
 <!---
@@ -39,5 +39,7 @@ girayduygun/girayduygun is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=girayduygun&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="girayduygun" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=girayduygun&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girayduygun&layout=donut)](https://github.com/girayduygun/github-readme-stats)
 
 --->
