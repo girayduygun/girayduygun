@@ -2,11 +2,7 @@
 - 🎓 I'm a <strong>Full Stack Software Engineer</strong> graduate from <a href="https://brainstation.io/online/software-engineering-bootcamp"><strong>BrainStation Software Engineering Bootcamp</strong></a>
 - 👀 I learned HTML5, CSS, Sass (SCSS), JavaScript, React.js, Document Object Model (DOM) APIs, Node.js, Express.js, Web APIs, OAuth, User Authentication, MySQL, GitHub, Enzyme, Heroku, WebPack, Jest, Agile Development.
 - 🌱 I’m currently learning Redux, C#, Java
-- 📫 Connect with me
-- girayduygun@hotmail.com
-- https://www.linkedin.com/in/girayduygun/
 
-<a href="https://www.linkedin.com/in/girayduygun" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/girayduygun" height="40" width="40" style="max-width: 100%;"></a>
 
 <hr>
 
