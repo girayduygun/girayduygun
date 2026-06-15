@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Giray 
 
 - 👀 I learned HTML5, CSS, Sass (SCSS), JavaScript, React.js, Document Object Model (DOM) APIs, Node.js, Express.js, Web APIs, OAuth, User Authentication, MySQL, GitHub, Enzyme, Heroku, WebPack, Jest, Agile Development.
-- 🌱 I’m currently learning Redux, C#, Java
-
 
 <hr>
 
